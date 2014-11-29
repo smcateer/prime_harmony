@@ -1,5 +1,13 @@
 /**
+ * Prime Harmony
+ * ----- -------
+ * Explore the harmonies of the primes.
+ *
  * Created by Stephen Mc Ateer on 29 Nov 2014.
+ * Released under GNU GPL 2 (http://www.gnu.org/licenses/gpl.txt).
+ *
+ * Depends on Processing 2.2.1 (https://www.processing.org/).
+ * Only tested on Linux (Ubuntu 14.10).
  */
 
 import processing.core.*;
